@@ -30,4 +30,4 @@ Para executar cada uma das tarefas, siga as instruções específicas no código
 
 ## Contato
 
-Se você tiver alguma dúvida ou precisar de assistência adicional, entre em contato conosco em [seu endereço de e-mail] ou [link para página de problemas (issues) do GitHub].
+Se você tiver alguma dúvida ou precisar de assistência adicional, entre em contato conosco
