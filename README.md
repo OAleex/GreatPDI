@@ -1,9 +1,8 @@
 # Projeto de Processamento de Imagens em Java
+Este projeto consiste em uma série de tarefas relacionadas ao processamento de imagens em Java.
 
 ## EQUIPE
-Ivanderson , Alex , Luiz Carlos
-
-Este projeto consiste em uma série de tarefas relacionadas ao processamento de imagens em Java.
+Ivanderson Amaral , Alex Félix, Luiz Carlos
 
 ## Tarefas
 
